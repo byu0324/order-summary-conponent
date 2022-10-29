@@ -127,8 +127,28 @@ p {
     overflow: hidden;
   }
 
-  img {
+  .image {
     width: 350px;
+  }
+
+  .component p {
+    width: 270px;
+  }
+
+  .product {
+    padding: 15px 20px;
+  }
+
+  .product img {
+    margin-right: 15px;
+  }
+
+  .content .name {
+    margin-right: 30px;
+  }
+
+  .payment__btn {
+    width: 270px;
   }
 }
 
@@ -141,6 +161,4 @@ p {
   .main {
     width: 450px;
   }
-
-
 }
